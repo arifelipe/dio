@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tênis de Mesa</title>
+</head>
+<body>
+    <h1>Tênis de Mesa</h1>
+    
+    <h2>O que é Tênis de Mesa?</h2>
+    <p>O tênis de mesa, também conhecido como pingue-pongue, é um esporte jogado entre duas ou quatro pessoas, onde os jogadores usam raquetas para rebater uma bola leve sobre uma mesa dividida por uma rede.</p>
+
+    <h2>História</h2>
+    <p>A modalidade teve origem na Inglaterra no final do século XIX. Inicialmente, era um jogo informal, jogado em mesas de jantar com objetos improvisados como raquetes e bolas.</p>
+
+    <h3>Desenvolvimento do esporte</h3>
+    <ul>
+        <li>1890: Primeiro jogo documentado.</li>
+        <li>1926: Formação da Federação Internacional de Tênis de Mesa (ITTF).</li>
+        <li>1988: Inclusão do esporte nas Olimpíadas.</li>
+    </ul>
+
+    <h2>Regras Básicas</h2>
+    <ol>
+        <li>Cada jogador deve servir a bola de forma que esta toque o seu lado da mesa e depois o lado do adversário.</li>
+        <li>A partida é jogada em sets, e um jogador deve atingir 11 pontos para vencer um set, com uma diferença mínima de 2 pontos.</li>
+        <li>O jogador perde o ponto se não conseguir devolver a bola corretamente ao adversário.</li>
+    </ol>
+
+    <h4>Tipos de Tênis de Mesa</h4>
+    <p>Existem diferentes variações do jogo, incluindo:</p>
+    <ul>
+        <li>Tênis de mesa individual (1 contra 1)</li>
+        <li>Tênis de mesa em duplas (2 contra 2)</li>
+        <li>Tênis de mesa paralímpico</li>
+    </ul>
+
+    <h2>Para saber mais</h2>
+    <p>Visite o site oficial da <a href="https://www.ittf.com" target="_blank">Federação Internacional de Tênis de Mesa</a> para mais informações sobre torneios e competições.</p>
+</body>
+</html>
